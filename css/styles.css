@@ -1,5 +1,6 @@
 body {
     background-color: #D4ECDD;
+    color: #112031;
 }
 
 hr {
@@ -9,4 +10,12 @@ hr {
     border-color: gray;
     border-width: 4px;
     width: 40px;
+}
+
+h1 {
+    color: #112031;
+}
+
+h3 {
+    color: #152D35;
 }
